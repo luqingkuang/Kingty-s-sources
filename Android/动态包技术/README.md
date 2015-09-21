@@ -10,3 +10,7 @@
    
  
 ---
+[Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin):A plugin framework on android,Run any third-party apk without installation, modification or repackage
+     
+ 
+---

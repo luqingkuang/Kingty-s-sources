@@ -7,6 +7,24 @@
 
 ![image](https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png)     
 ---
+[anupamdhanuka/AndroidProgressHUD](https://github.com/anupamdhanuka/AndroidProgressHUD):提示
+
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/1-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/1.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/2-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/2.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/3-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/3.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/4-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/4.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/5-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/5.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/6-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/6.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/7-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/7.png)   
+---
+
+[ Triggertrap/SeekArc ](https://github.com/Triggertrap/SeekArc):各种形状的进度条
+![image](https://camo.githubusercontent.com/1f5a943833fb6f1dc825d12df588dbf34c6da057/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f73616d706c655f6170702e706e67) 
+---
+[ fenjuly/ArrowDownloadButton ](https://github.com/fenjuly/ArrowDownloadButton):下载进度VIEW
+![image](https://github.com/fenjuly/ArrowDownloadButton/blob/master/screenshots/arrowdownloadbutton.gif)     
+---
+##other:
 [recruit-lifestyle/PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton):暂停按钮动画
 ![image](https://github.com/recruit-lifestyle/PlayPauseButton/blob/master/sc/animation.gif)     
 ---
@@ -24,3 +42,18 @@ A layout to transition between two views using a Floating Action Button as shown
 [ skyfishjy/android-ripple-background ](https://github.com/skyfishjy/android-ripple-background):A beautiful ripple animation for your app
 ![image](https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleSimple.gif)     
 ---
+[ zzz40500/ThemeDemo ](https://github.com/zzz40500/ThemeDemo):日夜间模式切换
+![image](https://camo.githubusercontent.com/4e20023c30295f60e6b54d710ecfe824e2df25ee/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d663461323662626565626233666666392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)     
+---
+[ wedcel/DragExpandGrid ](https://github.com/wedcel/DragExpandGrid):可展开，可拖动，可排序，可删除，固定更多的GridView
+![image](https://github.com/wedcel/DragExpandGrid/blob/master/device-2015-08-26-180601.gif)     
+---
+[ flyfei/CustomMenu ](https://github.com/flyfei/CustomMenu):CustomMenu quickly realize about the menu,左右的抽屉效果，自定义menu
+![image](https://github.com/flyfei/CustomMenu/blob/master/resources/only_right_menu.gif)    
+![image](https://github.com/flyfei/CustomMenu/blob/master/resources/double_menu.gif)     
+
+---
+[ sacot41/SCViewPager ](https://github.com/sacot41/SCViewPager):viewpaper,加图标动画
+![image](https://raw.githubusercontent.com/sacot41/SCViewPager/master/example_2.gif)     
+---
+

@@ -20,3 +20,8 @@ Animated "Pull To Refresh" Library for UIScrollView.
 ![image](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)     
  
 ---
+[ android-cjj/BeautifulRefreshLayout ]( https://github.com/android-cjj/BeautifulRefreshLayout ): 
+众多下拉刷新的合集
+
+ 
+---
