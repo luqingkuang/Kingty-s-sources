@@ -30,3 +30,8 @@
 
 ![image](https://github.com/liuruoze/EasyPR/blob/master/resources/doc/res/plate_locate.jpg)     
 ---
+
+[diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart):Android library to create charts.安卓的图标操作控件
+
+![image](https://github.com/diogobernardino/WilliamChart/blob/master/art/demo2.gif)     
+---

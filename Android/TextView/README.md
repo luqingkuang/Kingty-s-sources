@@ -23,3 +23,9 @@
 ![image](https://github.com/hongyangAndroid/MixtureTextView/blob/master/mixture.png)     
  
 ---
+
+[wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android):富文本编辑android
+
+![image](https://github.com/wasabeef/richeditor-android/blob/master/art/demo2.gif)     
+ 
+---

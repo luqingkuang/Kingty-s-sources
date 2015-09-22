@@ -6,4 +6,7 @@
 This is not an official application for TI SensorTag. It is a sample project for Bluetooth Low Energy (BLE) usage on Android. There was Texas Instruments SensorTag module used for demonstration.
  
 ---
+[ksksue/PhysicaloidLibrary](https://github.com/ksksue/PhysicaloidLibrary): Android Library for communicating with physical-computing boards (e.g.Arduino, mbed)
+ 
+---
 

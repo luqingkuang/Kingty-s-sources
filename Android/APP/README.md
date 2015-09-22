@@ -13,4 +13,14 @@
 ![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)     
  
 ---
+[ DrKLO/Telegram ](https://github.com/DrKLO/Telegram):Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android.
 
+     
+ 
+---
+
+[ Qixingchen/MD-BiliBili ](https://github.com/Qixingchen/MD-BiliBili):Material Design 版 BiliBili Android 客户端
+
+![image](https://camo.githubusercontent.com/54dcc76e195177a2227d87241d98b343c4fda4c3/687474703a2f2f69342e74696574756b752e636f6d2f636363383737633936666636633335312e706e67)     
+ 
+---

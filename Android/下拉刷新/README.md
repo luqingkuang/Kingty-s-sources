@@ -25,3 +25,20 @@ Animated "Pull To Refresh" Library for UIScrollView.
 
  
 ---
+[ nuptboyzhb/SuperSwipeRefreshLayout ]( https://github.com/nuptboyzhb/SuperSwipeRefreshLayout ): 
+A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多
+支持下拉刷新和上拉加载更多
+非侵入式，对原来的ListView、RecyclerView没有任何影响,用法和SwipeRefreshLayout类似。
+可自定义头部View的样式，调用setHeaderView方法即可
+可自定义页尾View的样式，调用setFooterView方法即可
+支持RecyclerView，ListView，ScrollView，GridView等等。
+被包含的View(RecyclerView,ListView etc.)可跟随手指的滑动而滑动
+默认是跟随手指的滑动而滑动，也可以设置为不跟随：setTargetScrollWithLayout(false)
+回调方法更多
+比如：onRefresh() onPullDistance(int distance)和onPullEnable(boolean enable)
+开发人员可以根据下拉过程中distance的值做一系列动画。 
+
+![image](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout/blob/master/demo.gif)     
+ 
+---
+

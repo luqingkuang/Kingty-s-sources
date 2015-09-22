@@ -31,3 +31,16 @@
 [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView):A Material Design themed ShowcaseView for Android 新手引导
 ![image](https://camo.githubusercontent.com/b72d79c013305ad20ef510af50abc6b12b721999/687474703a2f2f692e696d6775722e636f6d2f51494d59524a682e706e67)     
 ---
+[square / java-code-styles](https://github.com/square/java-code-styles):IntelliJ IDEA code style settings for Square's Java and Android projects.就是一个AS的代码格式控制插件     
+---
+[yy1300326388/logger](https://github.com/yy1300326388/logger):简单强大的日志工具
+![image](https://github.com/orhanobut/logger/blob/master/images/custom-tag.png)
+---
+
+[Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash):Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.崩溃处理工具
+![image](https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png)
+---
+
+[zxing/zxing](https://github.com/zxing/zxing):Official ZXing ("Zebra Crossing") project home
+二维码扫描工具
+---

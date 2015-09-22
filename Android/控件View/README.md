@@ -56,4 +56,38 @@ A layout to transition between two views using a Floating Action Button as shown
 [ sacot41/SCViewPager ](https://github.com/sacot41/SCViewPager):viewpaper,加图标动画
 ![image](https://raw.githubusercontent.com/sacot41/SCViewPager/master/example_2.gif)     
 ---
+[ nshmura/RecyclerTabLayout ](https://github.com/nshmura/RecyclerTabLayout):An efficient TabLayout library implemented with RecyclerView.
+![image](https://github.com/nshmura/RecyclerTabLayout/blob/master/art/years.gif)     
+---
+[ 2dxgujun/AndroidTagGroup ](https://github.com/2dxgujun/AndroidTagGroup):The TagGroup is a special layout with a set of tags. You can use it to tag people, books or anything you want.
+
+
+![image](https://camo.githubusercontent.com/8adbb5c44c656151cb108ada6d1383e2c6af38b7/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f62636532646561396a7731657362736279397635666a323075303077386a78782e6a7067)     
+---
+[ zzz40500/AndroidSweetSheet ](https://github.com/zzz40500/AndroidSweetSheet):一个富有动感的 Sheet, 先发两张图: 
+
+
+![image](https://raw.githubusercontent.com/zzz40500/AndroidSweetSheet/master/screenshot/Design.gif)     
+---
+[ recruit-lifestyle/FloatingView ](https://github.com/recruit-lifestyle/FloatingView):悬浮窗口
+
+
+![image](https://github.com/recruit-lifestyle/FloatingView/blob/master/screenshot/animation.gif)     
+---
+
+[ Yalantis/Side-Menu.Android ](https://github.com/Yalantis/Side-Menu.Android):Side menu with some categories to choose.
+
+
+![image](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)     
+---
+[ dodola/MetaballLoading ](https://github.com/dodola/MetaballLoading):A 2d metaball loading 一个加载loadview
+
+
+![image](https://github.com/dodola/MetaballLoading/blob/master/metaball.gif)     
+---
+[ iammert/MusicPlayerView ](https://github.com/iammert/MusicPlayerView):Android custom view and progress for music player
+
+
+![image](https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif)     
+---
 
