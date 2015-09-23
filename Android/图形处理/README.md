@@ -1,7 +1,11 @@
 
 # Android 的 图形处理
 
-##背景的虚化：
+
+---
+[nimengbo/StickerView](https://github.com/nimengbo/StickerView):单手操作图片控件 镜像、置顶、缩放、移动
+
+![image](https://github.com/nimengbo/StickerView/blob/master/stickerGIF.gif)   
 ---
 [wasabeef/Blurry](https://github.com/wasabeef/Blurry):Blurry is an easy blur library for Android
 
@@ -34,4 +38,8 @@
 [diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart):Android library to create charts.安卓的图标操作控件
 
 ![image](https://github.com/diogobernardino/WilliamChart/blob/master/art/demo2.gif)     
+---
+[Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera):This is an Android application with camera,picture cropping,collage sticking and tagging.贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签。
+
+![image](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)     
 ---

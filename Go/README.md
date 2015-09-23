@@ -27,3 +27,21 @@
 [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures):go实现的数据结构
 
 ---
+[golang/oauth2](https://github.com/golang/oauth2):go实现的oauth2协议
+
+---
+[jsix/go2o](https://github.com/jsix/go2o):go写的O2O商城
+
+---
+[golang/go](https://github.com/golang/go):GO官方库源码
+
+---
+[nsqio/nsq](https://github.com/nsqio/nsq):NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.高效的分发系统
+
+---
+[skynetservices/skynet](https://github.com/skynetservices/skynet):Skynet is a communication protocol for building massively distributed apps in Go. It is not constrained to Go, so it will lend itself nicely to polyglot environments. The first planned language addition is Ruby.
+
+---
+[codegangsta/gin](https://github.com/codegangsta/gin):Live reload utility for Go web servers
+
+---

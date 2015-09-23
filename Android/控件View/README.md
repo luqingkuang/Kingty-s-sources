@@ -24,6 +24,9 @@
 [ fenjuly/ArrowDownloadButton ](https://github.com/fenjuly/ArrowDownloadButton):下载进度VIEW
 ![image](https://github.com/fenjuly/ArrowDownloadButton/blob/master/screenshots/arrowdownloadbutton.gif)     
 ---
+[ panwrona/DownloadProgressBar ](https://github.com/panwrona/DownloadProgressBar):下载进度VIEW
+![image](https://github.com/panwrona/DownloadProgressBar/blob/master/success.gif)     
+---
 ##other:
 [recruit-lifestyle/PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton):暂停按钮动画
 ![image](https://github.com/recruit-lifestyle/PlayPauseButton/blob/master/sc/animation.gif)     
@@ -89,5 +92,8 @@ A layout to transition between two views using a Floating Action Button as shown
 
 
 ![image](https://raw.githubusercontent.com/iammert/MusicPlayerView/master/art/art2.gif)     
+---
+[ yueban/DraggedViewPager ](https://github.com/yueban/DraggedViewPager):A View whose pages and items both can be dragged, looking like a ViewPager,VIewPager 中的cell和page都可以拖动
+![image](https://github.com/yueban/DraggedViewPager/raw/master/DraggedViewPager.gif)     
 ---
 

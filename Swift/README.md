@@ -22,3 +22,21 @@
 
 ![image](https://camo.githubusercontent.com/4a86d398d981df5dc845042b92c6d785d0d486b4/687474703a2f2f696d61676573302e636e626c6f67732e636f6d2f626c6f67323031352f3439373237392f3230313530362f3133323233323435363133393137372e706e67)     
 ---
+[cesarferreira/SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus):A publish/subscribe EventBus optimized for iOS  
+---
+[sxyx2008/FoodPin](https://github.com/sxyx2008/FoodPin):用Swift写的一个简单的App
+![image](https://github.com/sxyx2008/FoodPin/blob/master/Screenshots/FoodPin-Chinese.gif)
+---
+[MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp):用Swift写的一个简单的App
+![image](https://github.com/MengTo/DesignerNewsApp/blob/master/Screenshots/designer-news-app.jpg)
+---
+[X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift):swift的教程，Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译
+---
+[SnapKit/SnapKit](https://github.com/SnapKit/SnapKit):A Swift Autolayout DSL for iOS & OS X
+---
+[JakeLin/SwiftWeather](https://github.com/JakeLin/SwiftWeather):SwiftWeather is an iOS app developed in Swift language.
+![image](https://raw.githubusercontent.com/JakeLin/SwiftWeather/master/screenshots/6-smallsize.png)
+---
+[lexrus/LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel):Graceful morphing effects for UILabel written in Swift.
+![image](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
+---
