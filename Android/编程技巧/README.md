@@ -19,4 +19,8 @@
 ---
 [ futurice/android-best-practices ]( https://github.com/futurice/android-best-practices )Do's and Don'ts for Android development, by Futurice developers，一些android开发的注意点，开发的方法，和思维最佳实践
 ---
+[ iluwatar/java-design-patterns ]( https://github.com/iluwatar/java-design-patterns )Design pattern samples implemented in Java，JAVA设计模式
+---
+[ google/guava ]( https://github.com/google/guava )：谷歌实现的JAVA api
+---
 

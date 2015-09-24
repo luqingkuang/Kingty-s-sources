@@ -37,3 +37,18 @@
 
  
 ---
+[ tarek360/Material-Animation-Samples ](https://github.com/tarek360/Material-Animation-Samples):Material Design 风格的动画效果，实例APP
+
+ 
+---
+
+[ tehmou/rx-android-architecture ](https://github.com/tehmou/rx-android-architecture):rxjava架构的示例项目
+
+ 
+---
+
+
+[ android10/Android-CleanArchitecture ](https://github.com/android10/Android-CleanArchitecture):This is a sample app that is part of a blog post I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+
+ 
+---

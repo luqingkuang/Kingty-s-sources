@@ -97,3 +97,18 @@ A layout to transition between two views using a Floating Action Button as shown
 ![image](https://github.com/yueban/DraggedViewPager/raw/master/DraggedViewPager.gif)     
 ---
 
+[ binaryroot/HorizontalStackView ](https://github.com/binaryroot/HorizontalStackView):
+![image](https://camo.githubusercontent.com/f3c7900a7672da64ba5d30cb48363cec2165b12b/687474703a2f2f692e67697068792e636f6d2f336f3835784a754173514c454831694237712e676966)     
+---
+[ afollestad/material-dialogs ](https://github.com/afollestad/material-dialogs):
+![image](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mdshowcase.png)     
+---
+[ Tibolte/ElasticDownload ](https://github.com/Tibolte/ElasticDownload):We are not Gif makers, We are developers
+![image](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)     
+---
+
+[ afollestad/material-cab ](https://github.com/afollestad/material-cab):A simple library for Android, which replaces the stock contextual action bar to allow more customization.
+![image](https://raw.githubusercontent.com/afollestad/material-cab/master/art/screenshot2.png)     
+---
+
+

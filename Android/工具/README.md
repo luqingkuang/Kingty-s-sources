@@ -66,3 +66,21 @@
 
 
 ---
+[avianey/androidsvgdrawable-plugin](https://github.com/avianey/androidsvgdrawable-plugin):Gradle & Maven plugin that generates qualified, density specific PNG drawables from SVG files at build time for your Android projects.
+
+
+---
+
+[tianzhijiexian/SelectorInjection](https://github.com/tianzhijiexian/SelectorInjection):一个强大的selector注入器，它可以让view自动产生selector状态，免去了你写selector的麻烦。
+![image](https://github.com/tianzhijiexian/SelectorInjection/blob/master/demoPic/view.png)
+---
+
+[google/dagger](https://github.com/google/dagger):dagger2，android注解的包
+
+---
+
+[tumblr/Remember](https://github.com/tumblr/Remember):reference 更简单的操作
+
+---
+
+

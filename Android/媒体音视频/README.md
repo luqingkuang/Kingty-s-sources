@@ -12,3 +12,9 @@ RTMP，HTTP，HLS及RTSP(RTP,SDP)
 MP4，3GP，FLV，TS/TP，RMVB ，MKV，M4V，AVI，WMV ，MKV
 
 ---
+[Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer):哔哩哔哩开源的播放器
+
+---
+[google/ExoPlayer](https://github.com/google/ExoPlayer):An extensible media player for Android
+
+---

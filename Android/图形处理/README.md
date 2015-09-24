@@ -43,3 +43,12 @@
 
 ![image](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)     
 ---
+[ cyndibaby905/TwitterCover-Android ](https://github.com/cyndibaby905/TwitterCover-Android):拖动图片放大的效果
+![image](https://camo.githubusercontent.com/f6da6aacf45b25fd72f3237a8ca9010f2d37ec11/68747470733a2f2f7261772e6769746875622e636f6d2f63796e6469626162793930352f54776974746572436f7665722f6d61737465722f54776974746572436f7665722e676966)     
+---
+[ AlbertGrobas/MovingImageView ](https://github.com/AlbertGrobas/MovingImageView):Custom ImageView for moving image around the screen (Android)
+![image](https://github.com/AlbertGrobas/MovingImageView/blob/master/art/sample01.gif)     
+---
+[ romannurik/muzei ](https://github.com/romannurik/muzei):Muzei Live Wallpaper for Android
+  
+---
