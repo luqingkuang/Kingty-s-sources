@@ -40,3 +40,26 @@
 [lexrus/LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel):Graceful morphing effects for UILabel written in Swift.
 ![image](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ---
+
+[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift):Design Patterns implemented in Swift
+
+---
+[MengTo/Spring](https://github.com/MengTo/Spring):swift 动画
+![image](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
+
+---
+
+[ipader/SwiftGuide](https://github.com/ipader/SwiftGuide):swift 资料大全
+
+---
+[ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift):Reactive Programming in Swift
+
+---
+[SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON):swift 解析json的最火的三方库
+
+---
+[Alamofire/Alamofire](https://github.com/Alamofire/Alamofire):Elegant HTTP Networking in Swift，网络库，IOS最火的网络库的swift版
+
+---
+
+

@@ -29,3 +29,8 @@
 ![image](https://github.com/wasabeef/richeditor-android/blob/master/art/demo2.gif)     
  
 ---
+[rockerhieu/emojicon](https://github.com/rockerhieu/emojicon):很常用的emoji
+
+![image](https://raw.githubusercontent.com/rockerhieu/emojicon/master/images/sample.jpg)     
+ 
+---

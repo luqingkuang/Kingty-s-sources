@@ -24,3 +24,11 @@
      
  
 ---
+[singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk):DL 2.0的新特性
+
+支持多进程模式，插件可以运行在单独的DL进程中(代码在lab分支)
+
+支持插件中的so库(代码在dev分支)
+     
+ 
+---

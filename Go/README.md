@@ -45,3 +45,39 @@
 [codegangsta/gin](https://github.com/codegangsta/gin):Live reload utility for Go web servers
 
 ---
+[avelino/awesome-go](https://github.com/avelino/awesome-go):A curated list of awesome Go frameworks, libraries and software 。GO的一个资料合集
+
+
+---
+
+[facebookgo/grace](https://github.com/facebookgo/grace):Graceful restart for Go servers. facebook的一个GO的server
+
+
+---
+[cihub/seelog](https://github.com/cihub/seelog):go的一个日志系统
+
+
+---
+[bitly/go-simplejson](https://github.com/bitly/go-simplejson):go，json
+
+
+---
+[astaxie/beego](https://github.com/astaxie/beego):谢大神写的go,WEB开发框架
+
+
+---
+[mattn/go-sqlite3](https://github.com/mattn/go-sqlite3):go 的sqllite3 驱动
+
+
+---
+[go-sql-driver/mysql](https://github.com/go-sql-driver/mysql):go mysql 驱动
+
+
+---
+[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+[mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn):go 初学者的书，非常简单易懂
+---
+[Unknwon/go-study-index](https://github.com/Unknwon/go-study-index):go 学习资料合集
+
+
+---

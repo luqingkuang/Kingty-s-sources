@@ -24,3 +24,16 @@
 ![image](https://camo.githubusercontent.com/54dcc76e195177a2227d87241d98b343c4fda4c3/687474703a2f2f69342e74696574756b752e636f6d2f636363383737633936666636633335312e706e67)     
  
 ---
+[ lguipeng/Notes ](https://github.com/lguipeng/Notes):Material Design 的开源笔记应用
+
+![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_1.png)     
+ 
+---
+[ chrisbanes/cheesesquare ](https://github.com/chrisbanes/cheesesquare):Material Design ，Demos the new Android Design library.
+
+ 
+---
+[ saulmm/Avengers ](https://github.com/saulmm/Avengers):When Avengers meet Dagger2, RxJava & Retrofit in a clean way
+
+ 
+---
