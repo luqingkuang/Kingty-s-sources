@@ -110,5 +110,14 @@ A layout to transition between two views using a Floating Action Button as shown
 [ afollestad/material-cab ](https://github.com/afollestad/material-cab):A simple library for Android, which replaces the stock contextual action bar to allow more customization.
 ![image](https://raw.githubusercontent.com/afollestad/material-cab/master/art/screenshot2.png)     
 ---
+[ wangjiegulu/DraggableFlagView ](https://github.com/wangjiegulu/DraggableFlagView):可拖拽的红点，（仿新版QQ，tab下面拖拽标记为已读的效果），拖拽一定的距离可以消失回调。
+![image](https://raw.githubusercontent.com/wangjiegulu/DraggableFlagView/master/screenshot/draggableflagview.gif)     
+---
+[ wangjiegulu/RapidFloatingActionButton ](https://github.com/wangjiegulu/RapidFloatingActionButton):Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB）
+![image](https://raw.githubusercontent.com/wangjiegulu/RapidFloatingActionButton/master/screenshot/rfab_label_list.gif)     
+---
+[ florent37/MaterialViewPager ](https://github.com/florent37/MaterialViewPager):A Material Design ViewPager easy to use library
+![image](https://camo.githubusercontent.com/359d79f8f6cc6381234fee59f5b7c3bc055471ed/68747470733a2f2f7261772e6769746875622e636f6d2f666c6f72656e7433372f4d6174657269616c5669657750616765722f6d61737465722f73637265656e73686f74732f707265766965775f736d616c6c2e706e67)     
+---
 
 

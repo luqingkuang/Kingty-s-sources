@@ -79,7 +79,24 @@
 
 ---
 
+[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava):著名牛逼的Rx
+
+---
+[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid):著名牛逼的Rx
+
+---
+[greenrobot/EventBus](https://github.com/greenrobot/EventBus):著名的事件机制
+
+---
 [tumblr/Remember](https://github.com/tumblr/Remember):reference 更简单的操作
+
+---
+
+[wangjiegulu/AndroidBucket](https://github.com/wangjiegulu/AndroidBucket):包含各种工具类、线程池、日志、自定义的控件、程序崩溃捕捉处理、默认的Application配置、常用的Adapter等
+
+---
+[square/leakcanary](https://github.com/square/leakcanary):A memory leak detection library for Android and Java.
+![image](https://github.com/square/leakcanary/blob/master/assets/screenshot.png)
 
 ---
 

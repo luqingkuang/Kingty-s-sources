@@ -52,3 +52,9 @@
 [ romannurik/muzei ](https://github.com/romannurik/muzei):Muzei Live Wallpaper for Android
   
 ---
+[ square/picasso](https://github.com/square/picasso):square图片库，屌屌的
+  
+---
+[ facebook/fresco](https://github.com/facebook/fresco):facebook图片库，屌屌的
+  
+---
