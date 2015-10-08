@@ -2,6 +2,10 @@
 # Go 收集代码
 
 ---
+[kyokomi/emoji](https://github.com/kyokomi/emoji):emoji terminal output for golang
+   
+![image](https://raw.githubusercontent.com/kyokomi/emoji/master/screen/image.png)
+---
 [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core):go写的翻墙工具
    
 ---

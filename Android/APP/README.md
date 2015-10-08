@@ -1,6 +1,18 @@
 
 # Android 的 app范例
 
+---
+[ maoruibin/AppPlus ](https://github.com/maoruibin/AppPlus):App+是一个MD风格的用于传送、提取APK文件的开源工具软件。 
+
+![image](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)     
+ 
+
+---
+---
+[ gpfduoduo/AnyShareOfAndroid ](https://github.com/gpfduoduo/AnyShareOfAndroid):西瓜快传 仿照市场上的茄子快传 或者 360文件传输 在局域网内，如果没有局域网，接收方建立热点，发送发接入热点，进行文件（发送方的app、音视频、图片等文件）
+
+![image](https://github.com/gpfduoduo/AnyShareOfAndroid/blob/master/filetransfer.gif)     
+ 
 
 ---
 [ liuchenx/15yan ](https://github.com/liuchenx/15yan):dataBinding 

@@ -1,7 +1,21 @@
 
 # Android 的 RecyclerView
+---
+[Frank-Zhu/PullZoomView](https://github.com/Frank-Zhu/PullZoomView):An Android custom ListView and ScrollView with pull to zoom-in.
 
 
+![image](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)     
+ 
+
+---
+---
+[matrixxun/PullToZoomInListView](https://github.com/matrixxun/PullToZoomInListView):An Android custom ListView with pull to zoom-in and parallax effect header like Path App.
+
+
+![image](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif)     
+ 
+
+---
 ---
 [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView):A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.添加了很多recyclerView的行的操作
 
