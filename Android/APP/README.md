@@ -2,6 +2,14 @@
 # Android 的 app范例
 
 ---
+[ rallat/EffectiveAndroid ](https://github.com/rallat/EffectiveAndroid):The Android SDK has changed much since its first version. Every new version comes with many new APIs. However, there is no perfect API, some do too much under the hood, others couple your classes to the context, others have more lifecycle events than you have years in your life.
+
+![image](https://github.com/rallat/EffectiveAndroid/blob/master/assets/mvp.png)     
+![image](https://github.com/rallat/EffectiveAndroid/blob/master/assets/clean.png)     
+ 
+
+
+---
 [ maoruibin/AppPlus ](https://github.com/maoruibin/AppPlus):App+是一个MD风格的用于传送、提取APK文件的开源工具软件。 
 
 ![image](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)     
